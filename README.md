@@ -278,7 +278,7 @@ for sensitivity_sir.m :
 
 
 
-![image alt]([[[image_url](https://github.com/BenkhiraAhmedBaderEddine1/Modeling-and-Simulation-of-an-Epidemic-Using-the-SIR-Model-in-MATLAB/blob/main/5.png?raw=true)
+![image alt](https://github.com/BenkhiraAhmedBaderEddine1/Modeling-and-Simulation-of-an-Epidemic-Using-the-SIR-Model-in-MATLAB/blob/main/5.png?raw=true)
 
 
 
