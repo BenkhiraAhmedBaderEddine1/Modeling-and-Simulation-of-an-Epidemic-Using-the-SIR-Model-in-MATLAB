@@ -253,11 +253,22 @@ Main project files:
 ----------------------------------------------------------------
 ---------------------------------------------------------------
 for  main_sir.m : 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ![image alt]([image_url](https://github.com/BenkhiraAhmedBaderEddine1/Modeling-and-Simulation-of-an-Epidemic-Using-the-SIR-Model-in-MATLAB/blob/a2f547e1e09561e740b15744d1a501b5df6b1a4e/Capture%20d%E2%80%99%C3%A9cran%202026-04-16%20190642.png))
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ![image alt]([[image_url](https://github.com/BenkhiraAhmedBaderEddine1/Modeling-and-Simulation-of-an-Epidemic-Using-the-SIR-Model-in-MATLAB/blob/a2f547e1e09561e740b15744d1a501b5df6b1a4e/Capture%20d%E2%80%99%C3%A9cran%202026-04-16%20190642.png)](https://github.com/BenkhiraAhmedBaderEddine1/Modeling-and-Simulation-of-an-Epidemic-Using-the-SIR-Model-in-MATLAB/blob/a2f547e1e09561e740b15744d1a501b5df6b1a4e/Capture%20d%E2%80%99%C3%A9cran%202026-04-16%20190710.png))
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 ![image alt]([[image_url](https://github.com/BenkhiraAhmedBaderEddine1/Modeling-and-Simulation-of-an-Epidemic-Using-the-SIR-Model-in-MATLAB/blob/a2f547e1e09561e740b15744d1a501b5df6b1a4e/Capture%20d%E2%80%99%C3%A9cran%202026-04-16%20190642.png)](https://github.com/BenkhiraAhmedBaderEddine1/Modeling-and-Simulation-of-an-Epidemic-Using-the-SIR-Model-in-MATLAB/blob/a2f547e1e09561e740b15744d1a501b5df6b1a4e/Capture%20d%E2%80%99%C3%A9cran%202026-04-16%20190728.png))
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ![image alt]([[image_url](https://github.com/BenkhiraAhmedBaderEddine1/Modeling-and-Simulation-of-an-Epidemic-Using-the-SIR-Model-in-MATLAB/blob/a2f547e1e09561e740b15744d1a501b5df6b1a4e/Capture%20d%E2%80%99%C3%A9cran%202026-04-16%20190642.png)](https://github.com/BenkhiraAhmedBaderEddine1/Modeling-and-Simulation-of-an-Epidemic-Using-the-SIR-Model-in-MATLAB/blob/147bdad13da1902c00c4b517dbd2906ca4d28003/1.png))
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------for  sir_ode.m :
@@ -265,15 +276,25 @@ for  main_sir.m :
 ![image alt](https://github.com/BenkhiraAhmedBaderEddine1/Modeling-and-Simulation-of-an-Epidemic-Using-the-SIR-Model-in-MATLAB/blob/147bdad13da1902c00c4b517dbd2906ca4d28003/2.png)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 for sensitivity_sir.m : 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ![image alt]([[[image_url](https://github.com/BenkhiraAhmedBaderEddine1/Modeling-and-Simulation-of-an-Epidemic-Using-the-SIR-Model-in-MATLAB/blob/a2f547e1e09561e740b15744d1a501b5df6b1a4e/Capture%20d%E2%80%99%C3%A9cran%202026-04-16%20190642.png)](https://github.com/BenkhiraAhmedBaderEddine1/Modeling-and-Simulation-of-an-Epidemic-Using-the-SIR-Model-in-MATLAB/blob/147bdad13da1902c00c4b517dbd2906ca4d28003/1.png)](https://github.com/BenkhiraAhmedBaderEddine1/Modeling-and-Simulation-of-an-Epidemic-Using-the-SIR-Model-in-MATLAB/blob/147bdad13da1902c00c4b517dbd2906ca4d28003/3.png))
 
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 ![image alt]([[[image_url](https://github.com/BenkhiraAhmedBaderEddine1/Modeling-and-Simulation-of-an-Epidemic-Using-the-SIR-Model-in-MATLAB/blob/a2f547e1e09561e740b15744d1a501b5df6b1a4e/Capture%20d%E2%80%99%C3%A9cran%202026-04-16%20190642.png)](https://github.com/BenkhiraAhmedBaderEddine1/Modeling-and-Simulation-of-an-Epidemic-Using-the-SIR-Model-in-MATLAB/blob/147bdad13da1902c00c4b517dbd2906ca4d28003/1.png)](https://github.com/BenkhiraAhmedBaderEddine1/Modeling-and-Simulation-of-an-Epidemic-Using-the-SIR-Model-in-MATLAB/blob/147bdad13da1902c00c4b517dbd2906ca4d28003/4.png))
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 ![image alt]([[[image_url](https://github.com/BenkhiraAhmedBaderEddine1/Modeling-and-Simulation-of-an-Epidemic-Using-the-SIR-Model-in-MATLAB/blob/a2f547e1e09561e740b15744d1a501b5df6b1a4e/Capture%20d%E2%80%99%C3%A9cran%202026-04-16%20190642.png)](https://github.com/BenkhiraAhmedBaderEddine1/Modeling-and-Simulation-of-an-Epidemic-Using-the-SIR-Model-in-MATLAB/blob/147bdad13da1902c00c4b517dbd2906ca4d28003/1.png)](https://github.com/BenkhiraAhmedBaderEddine1/Modeling-and-Simulation-of-an-Epidemic-Using-the-SIR-Model-in-MATLAB/blob/main/5.png?raw=true))
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 ![image alt]([[[image_url](https://github.com/BenkhiraAhmedBaderEddine1/Modeling-and-Simulation-of-an-Epidemic-Using-the-SIR-Model-in-MATLAB/blob/a2f547e1e09561e740b15744d1a501b5df6b1a4e/Capture%20d%E2%80%99%C3%A9cran%202026-04-16%20190642.png)](https://github.com/BenkhiraAhmedBaderEddine1/Modeling-and-Simulation-of-an-Epidemic-Using-the-SIR-Model-in-MATLAB/blob/147bdad13da1902c00c4b517dbd2906ca4d28003/1.png)](https://github.com/BenkhiraAhmedBaderEddine1/Modeling-and-Simulation-of-an-Epidemic-Using-the-SIR-Model-in-MATLAB/blob/main/6.png?raw=true))
 
