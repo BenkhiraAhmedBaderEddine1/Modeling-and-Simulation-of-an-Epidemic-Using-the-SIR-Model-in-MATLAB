@@ -255,8 +255,8 @@ Main project files:
 for  main_sir.m : 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 first 1
+![image alt](https://github.com/BenkhiraAhmedBaderEddine1/Modeling-and-Simulation-of-an-Epidemic-Using-the-SIR-Model-in-MATLAB/blob/main/Capture%20d%E2%80%99%C3%A9cran%202026-04-16%20190642.png?raw=true)
 
-![image alt]([image_url](https://github.com/BenkhiraAhmedBaderEddine1/Modeling-and-Simulation-of-an-Epidemic-Using-the-SIR-Model-in-MATLAB/blob/a2f547e1e09561e740b15744d1a501b5df6b1a4e/Capture%20d%E2%80%99%C3%A9cran%202026-04-16%20190642.png))
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 second 2
 ![image alt]([[image_url](https://github.com/BenkhiraAhmedBaderEddine1/Modeling-and-Simulation-of-an-Epidemic-Using-the-SIR-Model-in-MATLAB/blob/a2f547e1e09561e740b15744d1a501b5df6b1a4e/Capture%20d%E2%80%99%C3%A9cran%202026-04-16%20190642.png)](https://github.com/BenkhiraAhmedBaderEddine1/Modeling-and-Simulation-of-an-Epidemic-Using-the-SIR-Model-in-MATLAB/blob/a2f547e1e09561e740b15744d1a501b5df6b1a4e/Capture%20d%E2%80%99%C3%A9cran%202026-04-16%20190710.png))
