@@ -78,7 +78,7 @@ In the simulations, we will compute  R0 and study how changing β affects the ep
 
 
 --------------------------------------------------------
-## ⚙️ 3. Methodology
+##  3. Methodology
 
 ### 3.1 Tools and Environment
 
@@ -247,4 +247,16 @@ Main project files:
 
 - `main_sir.m` → Baseline simulation  
 - `sir_ode.m` → SIR model equations  
-- `sensitivity_sir.m` → Parameter analysis & vaccination scenarios  
+- `sensitivity_sir.m` → Parameter analysis & vaccination scenarios
+---------------------------------------------------------------
+  COOOOOODES : -------------------------------------------------
+----------------------------------------------------------------
+---------------------------------------------------------------
+for  main_sir.m : 
+
+
+![image alt]([image_url](https://github.com/BenkhiraAhmedBaderEddine1/Modeling-and-Simulation-of-an-Epidemic-Using-the-SIR-Model-in-MATLAB/blob/a2f547e1e09561e740b15744d1a501b5df6b1a4e/Capture%20d%E2%80%99%C3%A9cran%202026-04-16%20190642.png))
+![image alt]([[image_url](https://github.com/BenkhiraAhmedBaderEddine1/Modeling-and-Simulation-of-an-Epidemic-Using-the-SIR-Model-in-MATLAB/blob/a2f547e1e09561e740b15744d1a501b5df6b1a4e/Capture%20d%E2%80%99%C3%A9cran%202026-04-16%20190642.png)](https://github.com/BenkhiraAhmedBaderEddine1/Modeling-and-Simulation-of-an-Epidemic-Using-the-SIR-Model-in-MATLAB/blob/a2f547e1e09561e740b15744d1a501b5df6b1a4e/Capture%20d%E2%80%99%C3%A9cran%202026-04-16%20190710.png))
+![image alt]([[image_url](https://github.com/BenkhiraAhmedBaderEddine1/Modeling-and-Simulation-of-an-Epidemic-Using-the-SIR-Model-in-MATLAB/blob/a2f547e1e09561e740b15744d1a501b5df6b1a4e/Capture%20d%E2%80%99%C3%A9cran%202026-04-16%20190642.png)](https://github.com/BenkhiraAhmedBaderEddine1/Modeling-and-Simulation-of-an-Epidemic-Using-the-SIR-Model-in-MATLAB/blob/a2f547e1e09561e740b15744d1a501b5df6b1a4e/Capture%20d%E2%80%99%C3%A9cran%202026-04-16%20190728.png))
+
+
