@@ -169,7 +169,7 @@ Simulated values:
 
  Demonstrates strong sensitivity of epidemic dynamics to infection rate  
 
----
+----
 
 ### 4.3 Effect of Vaccination
 
