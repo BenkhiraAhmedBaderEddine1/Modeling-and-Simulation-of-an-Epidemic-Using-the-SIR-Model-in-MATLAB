@@ -26,7 +26,7 @@ I(t) – Infectious individuals who can transmit the disease
 R(t) – Recovered (or removed) individuals who are no longer infectious
 In this project, the SIR model is implemented in MATLAB to simulate an epidemic in a closed population. By changing model parameters such as the infection rate and recovery rate, and by simulating the effect of vaccination, we can visualize and understand how these parameters affect the spread of the disease.
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 1.1 Problem Statement  :
 -------------------------
 The problem addressed in this project is to:
