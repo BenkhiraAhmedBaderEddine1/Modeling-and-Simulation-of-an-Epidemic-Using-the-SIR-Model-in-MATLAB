@@ -122,7 +122,7 @@ The implementation of the SIR model follows these main steps:
 - **Vaccination Modeling**
   - Vaccination is modeled by reducing the initial susceptible population and increasing the recovered population
 
----
+----
 
 ### 3.3 Program Flow
 
